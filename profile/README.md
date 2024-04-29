@@ -2,8 +2,6 @@
 
 ## Flowooh
 
-This is a library for building workflows with Nodejs, which supports BPMN2.0.
+Flowooh is a light-weight extensible workflow based on Nodejs which is built with Typescript.
 
-## Work in progress
-
-When you see this sentence, it means you are too early.
+[Show me the code](https://github.com/flowooh/flowooh)
